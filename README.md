@@ -14,9 +14,12 @@ HTML, CSS, JSS and plenty of obscenities.
 
 ##Webpage URL:
 
+https://chrgrace.github.io/Timed-Quiz/
+
 ##Webpage Screenshot:
 
 https://user-images.githubusercontent.com/124852967/225617069-0dcb91cf-0fc2-465e-8c8a-374104c2e34c.png
+image.png
 
 Installation:
 N/A as the application is entirely usable from the browser
