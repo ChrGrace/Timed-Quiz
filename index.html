@@ -4,24 +4,35 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="stylesheet" href="./assets/style.css" />
-    <title>Timed Quiz</title>
+    <link rel="stylesheet" type="text/css" href="assets/style.css" />
+
+    <title>Timed coding knowledge test</title>
 </head>
 
 <body>
 
+    <div id="wrapper">
 
+        <div id="currentTime"></div>
 
+        <div id="questionsDiv">
+            <h1 class=title>Coding Quiz Challenge</h1>
+            <p>
+                You have 65 seconds to answer the following questions.
+                Incorrect answers will reduce your final score and shave five seconds off the timer.
+                Compete with your friends to see who can get the highest score and claim bragging rights!
+            </p>
+            <ul id="choicesUl"></ul>
 
+            <button id="startTime">Start Quiz</button>
+        </div>
+    </div>
 
-    <script src=".assets/script.js"></script>
+    <script src="assets/script.js"></script>
 </body>
-
-
 
 <footer>
 
-
-
 </footer>
+
+</html>
